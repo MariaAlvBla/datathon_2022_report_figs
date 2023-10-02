@@ -14,4 +14,4 @@ This repository contains all data and code necessary to replicate the figures at
 | EMP_coverage_by_WB_income.csv/txt/xlsx|Data for creating Figure 1b|
 | EMP_coverage_by_WB_income_metadata.txt| Metadata for the "EMP_coverage_by_WB_income" files|
 | Dataset_Datathon_FINAL.csv/txt/xlsx| Data for creating Figures 3b|
-| Dataset_Datathon_FINAL_metadata.txt| Metadata for the "Dataset_Datathon" files|
+| Dataset_Datathon_FINAL_metadata.txt| Metadata for the "Dataset_Datathon_FINAL" files|
