@@ -1,8 +1,6 @@
 # Data and Code for the figures at Jurburg and Alvarez-Blanco (2023)
-Publication's URL
 
-This repository contains all data and code necessary to replicate the figures at Jurburg and Alvarez-Blanco (2023)
-
+This repository contains the affiliation information of the Consortium members that contributed to this publication and all data and code necessary to replicate the figures of said publication
 
 ### Files contained in this repository
 
