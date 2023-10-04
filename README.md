@@ -8,6 +8,7 @@ This repository contains all data and code necessary to replicate the figures at
 
 | File name  | Use|
 | :------------- |:-------------|
+| Consortium members affiliations.pdf| Affiliation data of all Consortium members|
 | Datathon 2022 figures.R| Code for replicating the figures using R Studio|
 | Output.txt| Data for creating Figure 1a|
 | Output_metadata.txt| Metadata for the "Output" file|
