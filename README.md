@@ -1,6 +1,6 @@
 # Data and Code for the figures at Jurburg and Alvarez-Blanco (2023)
 
-This repository contains the affiliation information of the Consortium members that contributed to this publication and all data and code necessary to replicate the publication figures.
+This repository contains the affiliation information of the Consortium members that contributed to this publication and all data and code necessary to replicate the publication's figures.
 
 ### Files contained in this repository
 
